@@ -1,0 +1,11 @@
+{
+  "name": "Item Search",
+  "description": "Search item from various shop sites at the same time",
+  "version": "0.0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
